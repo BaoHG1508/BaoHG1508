@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoHG1508)](https://github.com/BaoHG1508/github-readme-stats)
+
 <!--
 **BaoHG1508/BaoHG1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
