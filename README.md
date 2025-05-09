@@ -6,8 +6,6 @@
 - 💬 Ask me about: Blockchain, Web3, Mobile Development, Backend Development
 - 📫 How to reach me: baohogia1508@gmail.com
 
-[![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaoHG1508&count_private=true)](https://github.com/BaoHG1508/github-readme-stats)
-
 <!--
 **BaoHG1508/BaoHG1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
