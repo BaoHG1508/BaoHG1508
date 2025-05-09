@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Starknet Scaffold
 - 💬 Ask me about: Blockchain, Web3, Mobile Development, Backend Development
 - 📫 How to reach me: baohogia1508@gmail.com
+- 📈 Over **2000+ contributions** this year
 
 <!--
 **BaoHG1508/BaoHG1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
