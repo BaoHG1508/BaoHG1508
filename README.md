@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- Full-Stack Developer at  Focus Bear, Quantum3 Labs
-
-- 🔭 I’m currently working on Starknet Scaffold
 - 💬 Ask me about: Blockchain, Web3, Mobile Development, Backend Development
 - 📈 Over **2000+ contributions** this year
 - 📫 How to reach me: baohogia1508@gmail.com
