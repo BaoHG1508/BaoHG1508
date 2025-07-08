@@ -2,7 +2,7 @@
 
 - 💬 Ask me about: Blockchain, Web3, Mobile Development, Backend Development
 - 📈 Over **2000+ contributions** this year
-- ⌛ More than 1500 hours worked on Upwork
+- ⌛ More than 1400 hours worked on Upwork
 - 📫 How to reach me: baohogia1508@gmail.com
 
 <!--
